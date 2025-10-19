@@ -124,13 +124,13 @@ Occipital Lobe
 
 
 MRI FILES
-Each T1w MPRAGE brain scans was brain extracted using HDBET (https://github.com/MIC-DKFZ/HD-BET).
+Each T1w MPRAGE brain scan was brain extracted using HDBET (https://github.com/MIC-DKFZ/HD-BET).
 
-Before MRS: This is the T1w MPRAGE scan us for voxel place
-1. sub-*/anat/sub-*_T1w.nii.gz
+Before MRS: This is the T1w MPRAGE scan for voxel placement
+1. sub-\*/anat/sub-\*_T1w.nii.gz
 
 After MRS: Second T1w MPRAGE scan performed within the same session for subject movement calculations after the MRS scans.
-1. derivatives/mrs_mat/sub-*_mat/sub-*_T1w.nii.gz
+1. derivatives/mrs_mat/sub-\*_mat/sub-\*_T1w.nii.gz
 
 
 SOFTWARE and FILE TYPES Included
