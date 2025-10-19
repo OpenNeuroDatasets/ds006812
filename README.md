@@ -98,39 +98,39 @@ Prefrontal Cortex
 9. Macromolecule Spectrum - using VAPOR(7;626) Water Suppression
 10. Macromolecule Water Scan - after VAPOR(7;626) Metabolite Scan
 
-Posterior Frontal Lobe
-11. Metabolite Spectrum - using COWS(7;236) Water Suppression
-12. Metabolite Water Scan - after COWS(7;236)
-13. Macromolecule Spectrum - using COWS(7;236) Water Suppression
-14. Macromolecule Water Scan - after COWS(7;236)
-15. Metabolite Spectrum - using COWS(12;626) Water Suppression
-16. Metabolite Water Scan - after COWS(12;626) Metabolite Scan
-17. Metabolite Spectrum - using VAPOR(7;626) Water Suppression
-18. Metabolite Water Scan - after VAPOR(7;626) Metabolite Scan
-19. Macromolecule Spectrum - using VAPOR(7;626) Water Suppression
-20. Macromolecule Water Scan - after VAPOR(7;626) Metabolite Scan
+## Posterior Frontal Lobe
+1. Metabolite Spectrum — using COWS(7;236) water suppression
+2. Metabolite Water Scan — after COWS(7;236)
+3. Macromolecule Spectrum — using COWS(7;236) water suppression
+4. Macromolecule Water Scan — after COWS(7;236)
+5. Metabolite Spectrum — using COWS(12;626) water suppression
+6. Metabolite Water Scan — after COWS(12;626) metabolite scan
+7. Metabolite Spectrum — using VAPOR(7;626) water suppression
+8. Metabolite Water Scan — after VAPOR(7;626) metabolite scan
+9. Macromolecule Spectrum — using VAPOR(7;626) water suppression
+10. Macromolecule Water Scan — after VAPOR(7;626) metabolite scan
 
-Occipital Lobe
-21. Metabolite Spectrum - using COWS(7;236) Water Suppression
-22. Metabolite Water Scan - after COWS(7;236)
-23. Macromolecule Spectrum - using COWS(7;236) Water Suppression
-24. Macromolecule Water Scan - after COWS(7;236)
-25. Metabolite Spectrum - using COWS(12;626) Water Suppression
-26. Metabolite Water Scan - after COWS(12;626) Metabolite Scan
-27. Metabolite Spectrum - using VAPOR(7;626) Water Suppression
-28. Metabolite Water Scan - after VAPOR(7;626) Metabolite Scan
-29. Macromolecule Spectrum - using VAPOR(7;626) Water Suppression
-30. Macromolecule Water Scan - after VAPOR(7;626) Metabolite Scan
+## Occipital Lobe
+1. Metabolite Spectrum — using COWS(7;236) water suppression
+2. Metabolite Water Scan — after COWS(7;236)
+3. Macromolecule Spectrum — using COWS(7;236) water suppression
+4. Macromolecule Water Scan — after COWS(7;236)
+5. Metabolite Spectrum — using COWS(12;626) water suppression
+6. Metabolite Water Scan — after COWS(12;626) metabolite scan
+7. Metabolite Spectrum — using VAPOR(7;626) water suppression
+8. Metabolite Water Scan — after VAPOR(7;626) metabolite scan
+9. Macromolecule Spectrum — using VAPOR(7;626) water suppression
+10. Macromolecule Water Scan — after VAPOR(7;626) metabolite scan
 
 
 MRI FILES
 Each T1w MPRAGE brain scans was brain extracted using HDBET (https://github.com/MIC-DKFZ/HD-BET).
 
 Before MRS: This is the T1w MPRAGE scan us for voxel place
-1. mprage_before_bet.nii.gz
+1. sub-*/anat/sub-*_T1w.nii.gz
 
 After MRS: Second T1w MPRAGE scan performed within the same session for subject movement calculations after the MRS scans.
-1. mprage_after_bet.nii.gz
+1. derivatives/mrs_mat/sub-*_mat/sub-*_T1w.nii.gz
 
 
 SOFTWARE and FILE TYPES Included
