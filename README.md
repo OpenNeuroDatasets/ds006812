@@ -62,7 +62,7 @@ MRS:
 - VAPOR(12;626) water suppresion: Water suppression scheme with 7 pulses that takes 626 ms to complete
 
 
-SPECTRA and MRI Per Participant (30 individual spectra)
+SPECTRA and MRI Per Participant
 
 DAT FILE SPECTRA (RAW)
 Each *.dat file contains both the spectrum and associated water reference
