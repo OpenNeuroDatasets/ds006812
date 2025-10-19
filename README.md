@@ -98,7 +98,7 @@ Prefrontal Cortex
 9. Macromolecule Spectrum - using VAPOR(7;626) Water Suppression
 10. Macromolecule Water Scan - after VAPOR(7;626) Metabolite Scan
 
-## Posterior Frontal Lobe
+Posterior Frontal Lobe
 1. Metabolite Spectrum — using COWS(7;236) water suppression
 2. Metabolite Water Scan — after COWS(7;236)
 3. Macromolecule Spectrum — using COWS(7;236) water suppression
@@ -110,7 +110,7 @@ Prefrontal Cortex
 9. Macromolecule Spectrum — using VAPOR(7;626) water suppression
 10. Macromolecule Water Scan — after VAPOR(7;626) metabolite scan
 
-## Occipital Lobe
+Occipital Lobe
 1. Metabolite Spectrum — using COWS(7;236) water suppression
 2. Metabolite Water Scan — after COWS(7;236)
 3. Macromolecule Spectrum — using COWS(7;236) water suppression
