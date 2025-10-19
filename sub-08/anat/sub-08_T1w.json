@@ -1,0 +1,9 @@
+{
+  "Modality": "MR",
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma",
+  "MagneticFieldStrength": 2.89,
+  "PulseSequenceType": "MPRAGE",
+  "SkullStripped": true,
+  "Description": "Brain-extracted T1-weighted image (before MRS)."
+}

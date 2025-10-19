@@ -1,0 +1,24 @@
+# Source & derivatives trees
+sourcedata/**
+derivatives/**
+
+# Vendor / derived file types
+*.dat
+*.mat
+
+# MRS aux folders (both direct + per-subject, just in case)
+mrs/dat/**
+mrs/mat/**
+sub-*/mrs/dat/**
+sub-*/mrs/mat/**
+
+# Non-BIDS anatomy subfolders (your tree uses "after", not "after_mrs")
+anat/after/**
+anat/before/**
+sub-*/anat/after/**
+sub-*/anat/before/**
+
+# Old skull-strip filenames if any remain
+*after_bet.nii.gz
+*before_bet.nii.gz
+EOF
