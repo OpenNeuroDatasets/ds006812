@@ -99,28 +99,28 @@ Prefrontal Cortex
 10. Macromolecule Water Scan - after VAPOR(7;626) Metabolite Scan
 
 Posterior Frontal Lobe
-1. Metabolite Spectrum — using COWS(7;236) water suppression
-2. Metabolite Water Scan — after COWS(7;236)
-3. Macromolecule Spectrum — using COWS(7;236) water suppression
-4. Macromolecule Water Scan — after COWS(7;236)
-5. Metabolite Spectrum — using COWS(12;626) water suppression
-6. Metabolite Water Scan — after COWS(12;626) metabolite scan
-7. Metabolite Spectrum — using VAPOR(7;626) water suppression
-8. Metabolite Water Scan — after VAPOR(7;626) metabolite scan
-9. Macromolecule Spectrum — using VAPOR(7;626) water suppression
-10. Macromolecule Water Scan — after VAPOR(7;626) metabolite scan
+1. Metabolite Spectrum - using COWS(7;236) water suppression
+2. Metabolite Water Scan - after COWS(7;236)
+3. Macromolecule Spectrum - using COWS(7;236) water suppression
+4. Macromolecule Water Scan - after COWS(7;236)
+5. Metabolite Spectrum - using COWS(12;626) water suppression
+6. Metabolite Water Scan - after COWS(12;626) metabolite scan
+7. Metabolite Spectrum - using VAPOR(7;626) water suppression
+8. Metabolite Water Scan - after VAPOR(7;626) metabolite scan
+9. Macromolecule Spectrum - using VAPOR(7;626) water suppression
+10. Macromolecule Water Scan - after VAPOR(7;626) metabolite scan
 
 Occipital Lobe
-1. Metabolite Spectrum — using COWS(7;236) water suppression
-2. Metabolite Water Scan — after COWS(7;236)
-3. Macromolecule Spectrum — using COWS(7;236) water suppression
-4. Macromolecule Water Scan — after COWS(7;236)
-5. Metabolite Spectrum — using COWS(12;626) water suppression
-6. Metabolite Water Scan — after COWS(12;626) metabolite scan
-7. Metabolite Spectrum — using VAPOR(7;626) water suppression
-8. Metabolite Water Scan — after VAPOR(7;626) metabolite scan
-9. Macromolecule Spectrum — using VAPOR(7;626) water suppression
-10. Macromolecule Water Scan — after VAPOR(7;626) metabolite scan
+1. Metabolite Spectrum - using COWS(7;236) water suppression
+2. Metabolite Water Scan - after COWS(7;236)
+3. Macromolecule Spectrum - using COWS(7;236) water suppression
+4. Macromolecule Water Scan - after COWS(7;236)
+5. Metabolite Spectrum - using COWS(12;626) water suppression
+6. Metabolite Water Scan - after COWS(12;626) metabolite scan
+7. Metabolite Spectrum - using VAPOR(7;626) water suppression
+8. Metabolite Water Scan - after VAPOR(7;626) metabolite scan
+9. Macromolecule Spectrum - using VAPOR(7;626) water suppression
+10. Macromolecule Water Scan - after VAPOR(7;626) metabolite scan
 
 
 MRI FILES
@@ -140,9 +140,5 @@ SOFTWARE and FILE TYPES Included
 2. INSPECTOR Compatible -> .MAT
 	- SOFTWARE: https://inventions.techventures.columbia.edu/technologies/inspector-magnetic--CU17130
 	- Manuscript: INSPECTOR: free software for magnetic resonance spectroscopy data inspection, processing, simulation and analysis https://doi.org/10.1038/s41598-021-81193-9
-3. NIFTY-MRS -> .NII
-	- SOFTWARE: https://github.com/wtclarke/spec2nii
-	- DOCUMENTATION: https://wtclarke.github.io/mrs_nifti_standard/
-	- Manuscript: NIfTI-MRS: A standard data format for magnetic resonance spectroscopy https://doi.org/10.1002/mrm.29418
-4. TWIX File format -> .DAT
+3. TWIX File format -> .DAT
 
