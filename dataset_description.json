@@ -4,7 +4,7 @@
     "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
     "HowToAcknowledge": "Please cite this dataset as: Igwe KC, Gajdošík M, Juchem C, Landheer K. Constrained optimized water suppression for 1H MR spectroscopy. Magn Reson Med. 2025;94(3):895-904. doi:10.1002/mrm.30550",
-    "License": "To Be Updated",
+    "License": "CC0",
     "Funding": ["None"],
     "Authors": [
         "Kay Igwe",
