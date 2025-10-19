@@ -67,21 +67,21 @@ SPECTRA and MRI Per Participant (30 individual spectra)
 DAT FILE SPECTRA (RAW)
 Each *.dat file contains both the spectrum and associated water reference
 
-1. sub-*_acq*-01_svs_slaser_vapor7_metab_PFC.dat
-2. sub-*_acq*-02_svs_slaser_vapor7_mm_PFC.dat
-3. sub-*_acq*-03_svs_slaser_cows7_metab_PFC.dat
-4. sub-*_acq*-04_svs_slaser_cows7_mm_PFC.dat
-5. sub-*_acq*-05_svs_slaser_cows12_metab_PFC.dat
-6. sub-*_acq*-06_svs_slaser_vapor7_metab_Occipital.dat
-7. sub-*_acq*-07_svs_slaser_vapor7_mm_Occipital.dat
-8. sub-*_acq*-08_svs_slaser_cows7_metab_Occipital.dat
-9. sub-*_acq*-09_svs_slaser_cows7_mm_Occipital.dat
-10. sub-*_acq*-10_svs_slaser_cows12_metab_Occipital.dat
-11. sub-*_acq*-11_svs_slaser_vapor7_metab_Parietal.dat
-12. sub-*_acq*-12_svs_slaser_vapor7_mm_Parietal.dat
-13. sub-*_acq*-13_svs_slaser_cows7_metab_Parietal.dat
-14. sub-*_acq*-14_svs_slaser_cows7_mm_Parietal.dat
-15. sub-*_acq*-15_svs_slaser_cows12_metab_Parietal.dat
+1. sub-\*_acq\*-01_svs_slaser_vapor7_metab_PFC.dat
+2. sub-\*_acq\*-02_svs_slaser_vapor7_mm_PFC.dat
+3. sub-\*_acq\*-03_svs_slaser_cows7_metab_PFC.dat
+4. sub-\*_acq\*-04_svs_slaser_cows7_mm_PFC.dat
+5. sub-\*_acq\*-05_svs_slaser_cows12_metab_PFC.dat
+6. sub-\*_acq\*-06_svs_slaser_vapor7_metab_Occipital.dat
+7. sub-\*_acq\*-07_svs_slaser_vapor7_mm_Occipital.dat
+8. sub-\*_acq\*-08_svs_slaser_cows7_metab_Occipital.dat
+9. sub-\*_acq\*-09_svs_slaser_cows7_mm_Occipital.dat
+10. sub-\*_acq\*-10_svs_slaser_cows12_metab_Occipital.dat
+11. sub-\*_acq\*-11_svs_slaser_vapor7_metab_Parietal.dat
+12. sub-\*_acq\*-12_svs_slaser_vapor7_mm_Parietal.dat
+13. sub-\*_acq\*-13_svs_slaser_cows7_metab_Parietal.dat
+14. sub-\*_acq\*-14_svs_slaser_cows7_mm_Parietal.dat
+15. sub-\*_acq\*-15_svs_slaser_cows12_metab_Parietal.dat
 
 
 MAT FILE SPECTRA
